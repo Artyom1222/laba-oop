@@ -1,0 +1,11 @@
+﻿  laba5.cpp
+D:\лабы челикам\артем\ООП\laba5\laba5\Figure.h(114,15): warning C4552: "-": результат выражения не используется
+D:\лабы челикам\артем\ООП\laba5\laba5\Figure.h(49): warning C4715: Shar::getP: значение возвращается не при всех путях выполнения
+D:\лабы челикам\артем\ООП\laba5\laba5\Figure.h(82): warning C4715: Prisma::getP: значение возвращается не при всех путях выполнения
+D:\лабы челикам\артем\ООП\laba5\laba5\Figure.h(149): warning C4715: Parallelepiped::getP: значение возвращается не при всех путях выполнения
+D:\лабы челикам\артем\ООП\laba5\laba5\Figure.h(189): warning C4715: Cube::getP: значение возвращается не при всех путях выполнения
+D:\лабы челикам\артем\ООП\laba5\laba5\Figure.h(232): warning C4715: Piramida::getP: значение возвращается не при всех путях выполнения
+D:\лабы челикам\артем\ООП\laba5\laba5\Figure.h(277): warning C4715: Conus::getP: значение возвращается не при всех путях выполнения
+D:\лабы челикам\артем\ООП\laba5\laba5\Figure.h(322): warning C4715: Cylindr::getP: значение возвращается не при всех путях выполнения
+D:\лабы челикам\артем\ООП\laba5\laba5\Figure.h(368): warning C4715: PrismaInscribedRectilimealTriangular::getP: значение возвращается не при всех путях выполнения
+  laba5.vcxproj -> D:\лабы челикам\артем\ООП\laba5\x64\Debug\laba5.exe
